@@ -1,6 +1,8 @@
 ## 💥Ohayo! Mina-san💥 
 
-### ⚡️Meu nome é Vinicius K. S. Watanabe⚡️
+### ⚡️Meu nome é Vinicius Watanabe⚡️
+
+Sejam bem vindos ao meu perfil do GitHub! Veja um pouco sobre mim:
 
 - 💻 Hoje Estudo e trabalho com front-end android
 - 📖 Estudando Desenvolvimento Mobile
