@@ -7,6 +7,7 @@ Sejam bem vindos ao meu perfil do GitHub! Veja um pouco sobre mim:
 - 💻 Hoje Estudo e trabalho com front-end android
 - 📖 Estudando Desenvolvimento Mobile
 - 🤖 Pronouns: Ele/Dele
+- 🥷 Japones
 
 <div>
     <a href="http://beacons.ia/V1n1c1us-k-s-W4t4n4b3">
