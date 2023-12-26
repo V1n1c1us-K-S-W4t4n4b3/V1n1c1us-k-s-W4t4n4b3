@@ -5,7 +5,7 @@
 Sejam bem vindos ao meu perfil do GitHub! Veja um pouco sobre mim:
 
 - 💻 Hoje Estudo e trabalho com front-end android
-- 📖 Estudando Desenvolvimento Mobile
+- 📖 Entusiasta em Desenvolvimento Mobile
 - 🤖 Pronouns: Ele/Dele
 - 🥷 Japones
 
