@@ -4,7 +4,7 @@
 
 Sejam bem vindos ao meu perfil do GitHub! Veja um pouco sobre mim:
 
-- 💻 Hoje Estudo e trabalho com front-end android (Kotlin)
+- 💻 Hoje Estudo e trabalho com front-end Mobile (Kotlin, Java e Flutter)
 - 📖 Entusiasta em Desenvolvimento Mobile
 - 🤖 Pronouns: Ele/Dele
 - 🥷 Japones
