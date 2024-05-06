@@ -18,6 +18,8 @@ Sejam bem vindos ao meu perfil do GitHub! Veja um pouco sobre mim:
     <img aling="center" alt="Vini-Kotlin" height="40" width="50" src="https://devicon-website.vercel.app/api/kotlin/original.svg">
     <img aling="center" alt="Vini-AndroidStudio" height="40" width="50" src="https://devicon-website.vercel.app/api/androidstudio/original.svg">
     <img aling="center" alt="Vini-AndroidStudio" height="40" width="50" src="https://devicon-website.vercel.app/api/java/original.svg">
+    <img aling="center" alt="Vini-AndroidStudio" height="40" width="50" src="https://devicon-website.vercel.app/api/flutter/original.svg">
+    <img aling="center" alt="Vini-AndroidStudio" height="40" width="50" src="https://devicon-website.vercel.app/api/dart/original.svg">
           
 </div>    
           
