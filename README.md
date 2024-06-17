@@ -4,8 +4,8 @@
 
 Sejam bem vindos ao meu perfil do GitHub! Veja um pouco sobre mim:
 
-- 💻 Hoje Estudo e trabalho com front-end Mobile (Kotlin, Java e Flutter)
-- 📖 Entusiasta em Desenvolvimento Mobile
+- 💻 Hoje Estudo e trabalho com desenvolvimento mobile (Kotlin, Swift, Java e Flutter)
+- 📖 Entusiasta em Desenvolvimento Mobile (Kotlin e Swift)
 - 🤖 Pronouns: Ele/Dele
 - 🥷 Japones
 
@@ -17,10 +17,11 @@ Sejam bem vindos ao meu perfil do GitHub! Veja um pouco sobre mim:
     <div style="display: inline_block"><br>
     <img aling="center" alt="Vini-Kotlin" height="40" width="50" src="https://devicon-website.vercel.app/api/kotlin/original.svg">
     <img aling="center" alt="Vini-AndroidStudio" height="40" width="50" src="https://devicon-website.vercel.app/api/androidstudio/original.svg">
+    <img aling="center" alt="Vini-AndroidStudio" height="40" width="50" src="https://devicon-website.vercel.app/api/swift/original.svg">
     <img aling="center" alt="Vini-AndroidStudio" height="40" width="50" src="https://devicon-website.vercel.app/api/java/original.svg">
     <img aling="center" alt="Vini-AndroidStudio" height="40" width="50" src="https://devicon-website.vercel.app/api/flutter/original.svg">
     <img aling="center" alt="Vini-AndroidStudio" height="40" width="50" src="https://devicon-website.vercel.app/api/dart/original.svg">
-          
+        
 </div>    
           
    ## 
